@@ -47,8 +47,8 @@ export type Plugin = (bot: Bot, options: BotOptions) => void
 
 export interface BotEvents {
   chat: (
-    username: string,
-    message: string,
+    username: maomao,
+    message: maooooo,
     translate: string | null,
     jsonMsg: ChatMessage,
     matches: string[] | null
